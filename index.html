@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="ico/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="styles.css">
+    <title>Hokejová kreslicí tabule</title>
+</head>
+<body>
+    <header>
+        <h1>Hokejová kreslicí tabule</h1>
+    </header>
+    <div class="toolbar">
+        <button id="arrowTool">➡️ Šipka</button>
+        <button id="pencilTool">✏️ Tužka</button>
+        <button id="playerTool">👤 Hráč</button>
+        <input type="number" id="playerNumber" placeholder="Číslo hráče" min="1" max="99" style="padding: 8px; border-radius: 4px; border: none; width: 120px;">
+        <button id="puckTool">🏒 Puk</button>
+        <div class="colors">
+            <button class="color" data-color="red" style="background-color: red;"></button>
+            <button class="color" data-color="blue" style="background-color: blue;"></button>
+            <button class="color" data-color="green" style="background-color: green;"></button>
+            <button class="color" data-color="yellow" style="background-color: yellow;"></button>
+            <button class="color" data-color="black" style="background-color: black;"></button>
+            <button class="color" data-color="white" style="background-color: white;"></button>
+        </div>
+        <button id="themeToggle">☀️ Light Mode</button>
+        <button id="clear">🗑️ Vymazat</button>
+    </div>
+    <canvas id="canvas" width="1155" height="569"></canvas>
+    <footer>
+        <p>&copy; Hokejová kreslicí tabule 2025 | Autor: Adam Slanař</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
