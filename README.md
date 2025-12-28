@@ -11,7 +11,7 @@
 
 ## 🚀 Živá ukázka (Live Demo)
 Web si můžete vyzkoušet zde:
-### 👉 [https://adamslanar4-sketch.github.io/Hokejova-Tabule/)
+### 👉 https://adamslanar4-sketch.github.io/Hokejova-Tabule/
 
 ---
 
