@@ -36,7 +36,7 @@ Pokud si chcete projekt spustit u sebe na stroji:
 
 1.  **Klonovat repozitář:**
     ```bash
-    git clone [https://github.com/tvoje-jmeno/nazev-repozitare.git](https://github.com/tvoje-jmeno/nazev-repozitare.git)
+    git clone https://adamslanar4-sketch.github.io/Hokejova-Tabule/
     ```
 2.  **Otevřít složku:**
     Jděte do složky projektu.
