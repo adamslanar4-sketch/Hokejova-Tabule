@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > **Interaktivní taktická tabule pro moderní hokejové trenéry.**
-> Semestrální projekt zaměřený na čistý kód, práci s SVG a živými daty.
+> Semestrální projekt zaměřený na čistý kód, práci s HTML5 Canvas a živými daty.
 
 ---
 
@@ -16,7 +16,7 @@ Web si můžete vyzkoušet zde:
 ---
 
 ## 🎯 O projektu
-Cílem projektu bylo vytvořit **Single Page Application (SPA)** bez použití externích frameworků (React, Vue), která demonstruje pokročilé znalosti **Vanilla JavaScriptu**, **CSS Gridu** a manipulace s **SVG**.
+Cílem projektu bylo vytvořit **Single Page Application (SPA)** bez použití externích frameworků (React, Vue), která demonstruje pokročilé znalosti **Vanilla JavaScriptu**, **CSS Gridu** a manipulace s **HTML5 CANVAS**.
 
 Aplikace simuluje trenérskou tabuli. Umožňuje načítat reálné soupisky týmů z NHL, přesouvat hráče na led a kreslit herní situace.
 
